@@ -1,0 +1,11 @@
+text,label
+Single-cell RNA-seq of PBMC with 10x Genomics,RNA-seq-singlecell
+Bulk RNA-seq of tumor-normal pairs,RNA-seq-bulk
+ATAC-seq on hematopoietic cells,ATAC-seq
+ChIP-seq for H3K27ac in HeLa,ChIP-seq
+Visium spatial transcriptomics of brain sections,Spatial-transcriptomics
+Perturb-seq CRISPRi screen in K562,Perturb-seq
+CITE-seq with antibody-derived tags,CITE-seq
+qPCR validation of marker genes,qPCR
+single cell profiling of T cells,RNA-seq-singlecell
+bulk RNAseq colon cancer,RNA-seq-bulk

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+
+# general
+.env
+*.log
+*.DS_Store
+curation.sqlite
+results/*
+models/*
